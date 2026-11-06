@@ -15,9 +15,9 @@ Mika wants to LEARN and do this project themselves. Act as a coach, not a contra
 - Scoring: business relevance & actionable recs 30% · analytical rigor 30% · dataviz & storytelling 25% · critical thinking/limitations/Q&A 15%. Judges reward sound reasoning over complex models.
 
 ## Data
-- MAIN dataset: `questrom_student_package_2025/questrom_flights_2025_student.csv`. 200,000-flight uniform random sample of 2025 BTS Reporting Carrier On-Time Performance, 10 carriers (AA, AS, B6, DL, MQ, OH, OO, UA, WN, YX).
+- MAIN dataset: `Student_Package_Data/questrom_flights_2025_student.csv`. 200,000-flight uniform random sample of 2025 BTS Reporting Carrier On-Time Performance, 10 carriers (AA, AS, B6, DL, MQ, OH, OO, UA, WN, YX).
 - `data_dictionary.csv` = column list; `validation_report.json` = expected totals (2,907 cancelled, 570 diverted, 327 airports); `README.txt` = caveats.
-- `questrom_full_flights_2025/` = full population, ~6.4M rows in monthly CSVs (no sample_weight column). Optional; only needed to check sample results against the population.
+- `Monthly_Flight_Data/` = full population, ~6.4M rows in monthly CSVs (no sample_weight column). Optional; only needed to check sample results against the population.
 - No fares, trip purpose, or productivity costs in the data. External enrichment (NOAA weather, airport info, cost benchmarks) is optional but must be documented.
 
 ## Data traps to remind Mika about
