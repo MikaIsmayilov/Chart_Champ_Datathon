@@ -5,6 +5,11 @@ Questrom Chart Champ Datathon (BA891), final on November 7, 2026.
 
 **Team 2:** Mika Ismayilli, Steven Marathias, Burak Ataseven
 
+## Final presentation (November 7, 2026)
+
+- **Slides (PDF, 11 pages):** [Chart_Champ_Slides_Team2.pdf](Chart_Champ_Slides_Team2.pdf)
+- **Demo video, Safe Flight (2 min 42 s):** [Safe_Flight_Demo_Video.mov](Safe_Flight_Demo_Video.mov)
+
 ## The brief
 
 Act as consultants responding to an RFP from a national company whose employees fly
@@ -92,6 +97,8 @@ supports a fare premium of roughly $42 per trip for the early option.
 
 ## Repository map
 
+- `Chart_Champ_Slides_Team2.pdf` - the final slide deck as presented
+- `Safe_Flight_Demo_Video.mov` - the Safe Flight demo video shown in the final
 - `Questrom_Chart_Champs_Revised_Brief.pdf` - the competition brief
 - `Student_Package_Data/` - the official 200,000-flight student sample and documentation
 - `Monthly_Flight_Data/` - full-population 2025 monthly BTS files
@@ -102,7 +109,7 @@ supports a fare premium of roughly $42 per trip for the early option.
 - `extra_data/Weather Data/` - the NOAA GHCN-Daily airport weather dataset and station
   mapping built for this project
 
-Analysis notebook: Chart_Champ_Travel_Reliability.ipynb (Google Colab, team drive).
+Analysis notebook: `Chart_Champ_Travel_Reliability.ipynb` in this repo (also on Google Colab, team drive).
 
 ## Sources
 
